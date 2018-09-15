@@ -14,7 +14,7 @@ abstract class BaseState<T extends StatefulWidget> extends State<T> {
   }
 
   /// Map the app state to your stateful widget state before rebuild.
-  void onStateChanged<TState>(TState newState);
+  void onStateChanged(Object newStateObject);
 
   @protected
   void dispose() {
