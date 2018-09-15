@@ -1,8 +1,8 @@
 name: observable_widgets
 description: A new flutter package project.
 version: 0.0.1
-author:
-homepage:
+author: Daniel Bautista <danielbahe@gmail.com>
+homepage: https://github.com/Danielbahe/observable_widgets
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   event_bus: ^1.0.1
   json_annotation: ^0.2.3
-  
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
