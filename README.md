@@ -17,7 +17,5 @@ Feel free to create pull request and create issues.
 - To raise events this library uses [event_bus](http:https://pub.dartlang.org/packages/event_bus// "event_bus")
 
 TODO:
-- Publish package
-- Samples
 - Test
 - Doc
