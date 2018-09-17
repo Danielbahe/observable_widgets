@@ -1,4 +1,4 @@
-## [0.0.2] - (17-09-2018)
+## [1.0.0] - (17-09-2018)
 
 Base stateful widget that automatically subscribe itself to the app state change events.
 Also automatically unsubscribe when the widget is disposed.
